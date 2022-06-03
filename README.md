@@ -1,15 +1,15 @@
 # spring-boot-rest-api
-theme: school registry
-
-model:
-{
-    "name": "aluno1",
-    "age": 7
-}
-
+theme: school registry <br>
+ <br>
+model: <br>
+{ <br>
+    "name": "aluno1", <br>
+    "age": 7 <br>
+} <br>
+ <br>
 routes:
-get - /matriculas
-get/id - /matriculas/:id
-post - /matriculas
-put - /matriculas
-delete - /matriculas/:id
+get - /matriculas <br>
+get/id - /matriculas/:id <br>
+post - /matriculas <br>
+put - /matriculas <br>
+delete - /matriculas/:id <br>
